@@ -4,5 +4,6 @@ body {
 }
 
 h1 {
-    text-align: center;
+    color: #ff0000;
+    text-align: left;
 }
