@@ -7,3 +7,10 @@ h1 {
     color: #ff0000;
     text-align: left;
 }
+
+.locations {
+    background-color: gray;
+    font-style: italic;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
